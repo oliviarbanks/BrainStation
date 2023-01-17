@@ -227,3 +227,41 @@ ul, ol, li {
   padding: 15px;
 }/*# sourceMappingURL=styles.css.map */
 
+.personal_title {
+  font-family: "Chivo", Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  padding: 0 5%;
+  background: #E2F6F5;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  
+}
+.personal_card-title {
+  margin: 0;
+  font-family: "Overpass", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 19px;}
+
+.personal_container {
+  padding: 0 5%;
+}
+.personal_card {
+  background: #E7E6E5;
+  padding: 30px;
+  width: 25%; 
+margin-bottom: 90px;}
+
+.personal_cards { 
+  display: flex;
+  justify-content: space-between;}
+
+
+.personal_card-touchscreen {
+      font-size: 19px;
+  
+    }
+
+.personal_card-title {
+  font-weight: bold;
+  text-decoration: underline;
+}
