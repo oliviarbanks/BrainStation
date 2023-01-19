@@ -25,7 +25,11 @@ Using the result variable, write an if/else statement comparing the result to th
 If the result is larger than 50, console.log "Result is bigger". 
 If it is smaller, console.log "Result is smaller"
 */
-
+if (result>50) {
+  console.log("result is bigger")
+} else {
+  console.log("result is smaller")
+}
 
 /*
 Arrays & Loops
