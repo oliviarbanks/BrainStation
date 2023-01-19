@@ -1,0 +1,11 @@
+Let maxNumber represent the biggest number, set it to zero to start
+While there are still numbers left in the list
+	Look at the next number in the list
+	Compare it to the maxNumber
+		If next number is greater than maxNumber
+			Set maxNumber to that number
+Report maxNumber as the biggest in the list
+
+
+Errors: Line 5 change "smaller" to "greater". 
+Reason: maxNumber should be greatest number according to line 1 and maxNumber should be updated after every comparison from line 4. 
